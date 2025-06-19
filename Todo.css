@@ -1,0 +1,9 @@
+.enter{
+    border-radius: 5px;
+    border: none ;
+    background: rgb(18, 223, 11);
+    font-size: 40px;
+    margin-top: 20px;
+    color: whitesmoke;
+    cursor: pointer;
+}
